@@ -1,6 +1,6 @@
 using System;
 
-namespace Biblioteca.Reservas
+namespace Cooperativa.Reservas
 {
     public class ReservaService
     {

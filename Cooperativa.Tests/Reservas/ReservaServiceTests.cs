@@ -1,8 +1,8 @@
 using NUnit.Framework;
-using Biblioteca.Reservas;
+using Cooperativa.Reservas;
 using System;
 
-namespace Biblioteca.Tests.Reservas
+namespace Cooperativa.Tests.Reservas
 {
     public class ReservaServiceTests
     {
